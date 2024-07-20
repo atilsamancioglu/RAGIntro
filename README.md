@@ -1,0 +1,7 @@
+**.env contents**
+
+OPENAI_API_KEY=
+
+LANGCHAIN_TRACING_V2=
+
+LANGCHAIN_API_KEY=
